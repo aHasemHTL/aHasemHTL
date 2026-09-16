@@ -31,7 +31,7 @@
   </path>
 
   <g font-family="system-ui, sans-serif">
-    <g transform="translate(185 118)">
+    <g transform="translate(185 132)">
       <circle r="14" fill="#60a5fa" filter="url(#glow)"><animate attributeName="r" values="12;17;12" dur="2.8s" repeatCount="indefinite"/></circle>
       <circle r="6" fill="#eff6ff"/>
       <text x="-23" y="40" fill="#dbeafe" font-size="16" font-weight="700">Java</text>
@@ -46,7 +46,7 @@
       <circle r="6" fill="#fefce8"/>
       <text x="-45" y="40" fill="#fef9c3" font-size="16" font-weight="700">TypeScript</text>
     </g>
-    <g transform="translate(1030 151)">
+    <g transform="translate(1030 164)">
       <circle r="14" fill="#34d399" filter="url(#glow)"><animate attributeName="r" values="12;17;12" dur="2.8s" begin="2.1s" repeatCount="indefinite"/></circle>
       <circle r="6" fill="#ecfdf5"/>
       <text x="-43" y="40" fill="#d1fae5" font-size="16" font-weight="700">Web</text>
