@@ -4,6 +4,8 @@
 
 ### School projects · Software development · Continuous learning
 
+<img src="https://raw.githubusercontent.com/aHasemHTL/aHasemHTL/main/assets/learning-path.svg" width="100%" alt="Animated learning path for Java, C#, TypeScript and Web" />
+
 </div>
 
 > **Learning by building — one project, pattern, and collaboration at a time.**
