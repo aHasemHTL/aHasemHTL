@@ -2,51 +2,44 @@
 
 # Ali Hasem
 
-### Building calm, capable interfaces for AI products.
-
-[Explore the toolkit](https://github.com/aHasemHTL/ai-developer-toolkit) · [Try the live demo](https://ai-developer-toolkit.vercel.app/)
+### School projects · Software development · Continuous learning
 
 </div>
 
-<br />
+> **Learning by building — one project, pattern, and collaboration at a time.**
 
-> **Interface engineering for the moments between a prompt and a useful answer.**
+## Technology toolkit
 
-## Workbench
-
-| Signal | Current focus |
+| Area | Technologies |
 | :-- | :-- |
-| **Building** | Streaming AI chat interfaces that stay responsive under real-world conditions |
-| **Exploring** | Developer tools that are powerful without becoming opaque |
-| **Working with** | Next.js · React · TypeScript · Tailwind CSS |
-| **Optimising for** | Accessibility, clarity, and small moments of product delight |
+| **Programming** | Java · C# · TypeScript |
+| **Web** | HTML · CSS |
+| **Practice** | Object-oriented programming · software design · team projects |
 
-## Featured build
+## What I work on
 
-### AI Developer Toolkit
+- Java applications and structured programming exercises
+- C# projects that strengthen my software-development foundations
+- TypeScript and web-development projects
+- Object-oriented design, patterns, and maintainable code
+- Collaborative school projects from idea to finished result
 
-A production-ready, copy-friendly component foundation for AI chat applications.
-
-It handles the details that make an AI experience feel polished: streaming-safe Markdown, stable syntax highlighting, reliable auto-scroll, keyboard-aware input, and responsive UI.
-
-[Source code →](https://github.com/aHasemHTL/ai-developer-toolkit) &nbsp;·&nbsp; [Live demo →](https://ai-developer-toolkit.vercel.app/)
+## Learning log
 
 ```text
-useful by default
-customisable by design
-accessible in every interaction
+build → test → reflect → improve
 ```
 
-## Principles I build by
+## Principles
 
-- **Own the code** — reusable components should stay understandable and adaptable.
-- **Respect the interaction** — fast feedback, predictable behaviour, and thoughtful keyboard support matter.
-- **Make complexity feel quiet** — the best interface leaves people focused on the work, not the tool.
+- **Understand the why** — learn the concepts behind the code.
+- **Keep iterating** — every project is a chance to improve.
+- **Build together** — collaboration is part of good software.
 
 ---
 
 <div align="center">
 
-<sub>Always iterating on better ways to build AI-powered products.</sub>
+<sub>Documenting my progress through school projects and practical software development.</sub>
 
 </div>
