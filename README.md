@@ -12,11 +12,7 @@
 
 ## Technology toolkit
 
-| Area | Technologies |
-| :-- | :-- |
-| **Programming** | Java · C# · TypeScript |
-| **Web** | HTML · CSS |
-| **Practice** | Object-oriented programming · software design · team projects |
+<img src="https://raw.githubusercontent.com/aHasemHTL/aHasemHTL/main/assets/technology-toolkit.svg" width="100%" alt="Visual technology toolkit for programming, web, and project practice" />
 
 ## What I work on
 
