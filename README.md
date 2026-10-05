@@ -9,7 +9,7 @@
     and I’m always learning new technologies to improve my skills.
   </p>
   <p>
-    <a href="https://ahasemhtl.github.io/aHasemHTL/"><strong>🌐 My Website →</strong></a>
+    <a href="https://ahasemhtl.github.io/aHasemHTL/"><strong>🌐 My Website</strong></a>
   </p>
 </div>
 
