@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aHasemHTL/aHasemHTL/main/assets/profile-banner.svg" width="100%" alt="Ali Hasem — Software development" />
+<img src="https://raw.githubusercontent.com/aHasemHTL/aHasemHTL/main/assets/profile-banner-blended.svg" width="100%" alt="Ali Hasem — Software development" />
 
 </div>
 
@@ -37,4 +37,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="50px" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="50px" alt="Arch Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="50px" alt="Neovim" />
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aHasemHTL/aHasemHTL/main/assets/profile-footer.svg" width="100%" alt="Circuit design footer" />
+
 </div>
