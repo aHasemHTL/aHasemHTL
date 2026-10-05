@@ -4,6 +4,8 @@
 
 ### Software Developer
 
+<img src="https://raw.githubusercontent.com/aHasemHTL/aHasemHTL/main/assets/profile-banner.svg" width="100%" alt="Ali Hasem — Software development" />
+
 </div>
 
 <h2 align="center">Programming Languages</h2>
