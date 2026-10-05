@@ -49,8 +49,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-hasem-a604593b6/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40px" alt="LinkedIn" /></a>
-  <br />
-  <a href="mailto:ali.hasem052@gmail.com">ali.hasem052@gmail.com</a>
+  <a href="mailto:ali.hasem052@gmail.com"><img src="https://cdn.simpleicons.org/gmail" height="40px" alt="Email" /></a>
 </p>
 
 <div align="center">
