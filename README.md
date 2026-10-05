@@ -2,42 +2,41 @@
 
 # Ali Hasem
 
-### School projects · Software development · Continuous learning
-
-<img src="https://raw.githubusercontent.com/aHasemHTL/aHasemHTL/main/assets/learning-path.svg?v=4" width="100%" alt="Animated learning path for Java, C#, TypeScript and Web" />
+### Software Developer
 
 </div>
 
-> **Learning by building — one project, pattern, and collaboration at a time.**
-
-## Technology toolkit
-
-<img src="https://raw.githubusercontent.com/aHasemHTL/aHasemHTL/main/assets/technology-toolkit.svg" width="100%" alt="Visual technology toolkit for programming, web, and project practice" />
-
-## What I work on
-
-- Java applications and structured programming exercises
-- C# projects that strengthen my software-development foundations
-- TypeScript and web-development projects
-- Object-oriented design, patterns, and maintainable code
-- Collaborative school projects from idea to finished result
-
-## Learning log
-
-```text
-build → test → reflect → improve
-```
-
-## Principles
-
-- **Understand the why** — learn the concepts behind the code.
-- **Keep iterating** — every project is a chance to improve.
-- **Build together** — collaboration is part of good software.
-
----
+<h2 align="center">Programming Languages</h2>
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50px" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50px" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="50px" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="50px" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50px" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50px" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50px" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50px" alt="TypeScript" />
+</div>
 
-<sub>Documenting my progress through school projects and practical software development.</sub>
+<h2 align="center">Frameworks &amp; Platforms</h2>
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="50px" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="50px" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="50px" alt="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="50px" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="50px" alt="Oracle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="50px" alt="Unity" />
+</div>
+
+<h2 align="center">Tools &amp; DevOps</h2>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50px" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" height="50px" alt="Podman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50px" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="50px" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="50px" alt="Arch Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="50px" alt="Neovim" />
 </div>
