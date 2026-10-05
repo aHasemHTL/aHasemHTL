@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeAuto&text=Ali%20Hasem&fontAlign=51&fontSize=60&descAlign=50&desc=Software%20Developer&descAlignY=54&fontAlignY=40&textBg=false">
+</div>
 
 <h2 align="center">About Me</h2>
 
@@ -79,3 +79,7 @@
 <p align="center">
   <a href="mailto:ali.hasem052@gmail.com">ali.hasem052@gmail.com</a> · <a href="https://www.linkedin.com/in/ali-hasem-a604593b6/">LinkedIn</a> · Linz, Austria
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=timeAuto&section=footer">
+</div>
