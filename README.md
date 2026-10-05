@@ -45,6 +45,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="50px" alt="Neovim" />
 </div>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ali-hasem-a604593b6/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40px" alt="LinkedIn" /></a>
+</p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=timeAuto&section=footer">
 </div>
