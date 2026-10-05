@@ -1,8 +1,6 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aHasemHTL/aHasemHTL/main/assets/profile-banner-blended.svg" width="98%" alt="Ali Hasem — Software development" />
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+</p>
 
 <h2 align="center">About Me</h2>
 
@@ -76,23 +74,8 @@
   Networking fundamentals (TCP/IP, DNS, OSI model)
 </p>
 
-<h2 align="center">Education & Languages</h2>
-
-<p align="center">
-  <b>HTL Leonding</b> — Informatics · Sep 2023 – present<br />
-  <b>Languages:</b> German (C1) · English (B1) · Urdu / Punjabi (native)
-</p>
-
 <h2 align="center">Contact</h2>
 
 <p align="center">
   <a href="mailto:ali.hasem052@gmail.com">ali.hasem052@gmail.com</a> · <a href="https://www.linkedin.com/in/ali-hasem-a604593b6/">LinkedIn</a> · Linz, Austria
 </p>
-
-<br />
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aHasemHTL/aHasemHTL/main/assets/profile-footer-compact.svg" width="96%" alt="Circuit design footer" />
-
-</div>
